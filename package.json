@@ -1,13 +1,28 @@
 {
   "name": "osmd-player-react",
   "version": "0.1.0",
+  "description": "OpenSheetMusicDisplay and OSMD audio player libraries meets React",
+  "keywords": [
+    "sheet",
+    "music",
+    "vexflow",
+    "musicxml",
+    "MusicXML",
+    "Music XML",
+    "audio player",
+    "MusicXML audio",
+    "music notation"
+  ],
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.6.3",
+    "opensheetmusicdisplay": "^0.9.2",
+    "osmd-audio-player": "^0.6.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.2",
     "web-vitals": "^1.1.0"
   },
