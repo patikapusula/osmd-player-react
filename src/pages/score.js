@@ -4,7 +4,7 @@ import { OpenSheetMusicDisplay as OSMD } from "opensheetmusicdisplay";
 import OsmdPlayer from "osmd-audio-player";
 
 import { ScoreFiles } from "../data/scoreFilesDB";
-import PlayerController from "../components/PlayerContoller";
+import PlayerController from "../components/PlayerController";
 
 // TODO Move this to .env
 const BASE_URL = "https://opensheetmusicdisplay.github.io/demo/sheets/";

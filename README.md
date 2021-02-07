@@ -1,4 +1,4 @@
-# OpenSheetMusicDisplay and OSMD audio player meets React
+## OpenSheetMusicDisplay and OSMD audio player meets React
 
 References :
 
